@@ -1,0 +1,5 @@
+A starter developpement directory.
+
+A node server with needed dependencies (express, grunt, grunt-require).
+Download all front common libraries included Backbone, require, underscore, jquery using Bower.
+A grunt file to compile the app.
