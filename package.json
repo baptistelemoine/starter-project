@@ -7,6 +7,7 @@
         "express": "3.x",
         "bower":"0.7.x",
         "grunt":"0.3.x",
-        "grunt-contrib-requirejs":"0.3.x"
+        "grunt-contrib-requirejs":"0.3.x",
+        "path":"0.4.x"
     }
 }
