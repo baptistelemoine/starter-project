@@ -3,11 +3,11 @@ require.config({
   baseUrl:'js/',
   
   paths: {
-    jquery: 'libs/jquery/jquery-min',
-    underscore: 'libs/underscore/underscore',
-    backbone: 'libs/backbone/backbone',
-    text: 'libs/require/text',
-    paginator:'libs/backbone/backbone.paginator'
+    jquery: 'libs/jquery/index',
+    underscore: 'libs/underscore/index',
+    backbone: 'libs/backbone/index',
+    text: 'libs/text/index',
+    paginator:'libs/backbone.paginator/index'
 
   },
   
