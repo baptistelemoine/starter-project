@@ -3,7 +3,7 @@ require.config({
   baseUrl:'js/',
   
   paths: {
-    jquery: 'libs/jquery/index',
+    jquery: 'libs/jquery/jquery.min',
     underscore: 'libs/underscore/index',
     backbone: 'libs/backbone/index',
     text: 'libs/text/index',
