@@ -1,5 +1,6 @@
 
 var express = require('express');
+var path = require('path');
 var app = module.exports = express();
 
 app.configure(function () {
